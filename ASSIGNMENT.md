@@ -1,3 +1,6 @@
+# Loom Video:
+https://www.loom.com/share/c5072d98d7244715876502858e647164
+
 # Developer Assignment: Property Revenue Dashboard
 
 ## Background
